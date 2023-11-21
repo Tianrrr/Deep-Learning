@@ -1,0 +1,10 @@
+batch_size: 2
+hidden_size: 128
+latent_size: 128
+learning_rate: 0.0005
+n_hidden:
+- 1024
+- 512
+- 256
+num_classes: 10
+num_worker: 8
